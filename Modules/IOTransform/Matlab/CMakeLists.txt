@@ -1,0 +1,3 @@
+project(ITKIOTransformMatlab)
+set(ITKIOTransformMatlab_LIBRAIRES ITKIOTransformMatlab)
+itk_module_impl()
